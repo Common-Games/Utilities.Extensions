@@ -1,0 +1,24 @@
+{
+  "name": "com.commongames.utilities.extensions",
+  "version": "1.0.0",
+  "displayName": "Utilities/Extensions",
+  "unity": "2019.4",
+  "keywords": [
+    "utilities",
+    "extensions",
+    "unity",
+    "cgtk",
+    "common-games"
+  ],
+  "author": {
+    "name": "Common Games",
+    "url": "https://github.com/Common-Games",
+    "email": "walter-haynes@outlook.com"
+  },
+  "description": "A lot of useful Extension methods.",
+  "type": "library",
+  "hideInEditor": false,
+  "dependencies": {
+    "com.commongames.utilities.defaults": "1.0.0"
+  }
+}

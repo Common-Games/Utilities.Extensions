@@ -1,0 +1,15 @@
+{
+    "name": "CommonGames.Utilities.Extensions",
+    "references": [
+        "GUID:35bfc998b9fb0a2479d7327a52a7ad3e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
