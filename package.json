@@ -18,7 +18,7 @@
   "description": "A lot of useful Extension methods.",
   "type": "library",
   "hideInEditor": false,
-  "dependencies": {
-    "https://github.com/Common-Games/Utilities.Defaults.git": "1.0.0"
+  "gitDependencies": {
+    "com.commongames.utilities.defaults": "https://github.com/Common-Games/Utilities.Defaults.git"
   }
 }
