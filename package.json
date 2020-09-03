@@ -19,6 +19,6 @@
   "type": "library",
   "hideInEditor": false,
   "dependencies": {
-    "com.commongames.utilities.defaults": "1.0.0"
+    "https://github.com/Common-Games/Utilities.Defaults.git": "1.0.0"
   }
 }
